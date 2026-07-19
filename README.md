@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k46-f&layout=compact&theme=tokyonight&hide_border=true&title_color=5865F2&text_color=ffffff)
 
-![Repo Count](https://img.shields.io/github/repos/k46-f?style=for-the-badge&color=5865F2&label=Total%20Tools)
+![Total Tools](https://img.shields.io/badge/dynamic/json?color=5865F2&label=Total%20Tools&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fk46-f&style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=k46-f&style=for-the-badge&label=Profile+Views&color=339933)
 
 ---
