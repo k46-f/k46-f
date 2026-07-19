@@ -7,13 +7,10 @@
 
 ---
 
-### 📊 My GitHub Metrics
+### 📊 GitHub Activity
 
-![Phoenix's Stats](https://github-readme-stats.vercel.app/api?username=k46-f&show_icons=true&theme=tokyonight&hide_border=true&title_color=5865F2&icon_color=F7DF1E&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k46-f&layout=compact&theme=tokyonight&hide_border=true&title_color=5865F2&text_color=ffffff)
-
-![Repo Count](https://img.shields.io/github/repositories/k46-f?type=public&style=for-the-badge&color=339933&label=Total%20Tools)
+![Repo Count](https://img.shields.io/github/repositories/k46-f?type=public&style=for-the-badge&color=5865F2&label=Total%20Tools)
+![Stars](https://img.shields.io/github/stars/k46-f?style=for-the-badge&color=F7DF1E&labelColor=333333&label=%E2%AD%90%20Stars%20Earned)
 
 ---
 
