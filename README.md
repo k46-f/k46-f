@@ -7,10 +7,12 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Metrics
 
-![Repo Count](https://img.shields.io/github/repositories/k46-f?type=public&style=for-the-badge&color=5865F2&label=Total%20Tools)
-![Stars](https://img.shields.io/github/stars/k46-f?style=for-the-badge&color=F7DF1E&labelColor=333333&label=%E2%AD%90%20Stars%20Earned)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k46-f&layout=compact&theme=tokyonight&hide_border=true&title_color=5865F2&text_color=ffffff)
+
+![Repo Count](https://img.shields.io/github/repos/k46-f?style=for-the-badge&color=5865F2&label=Total%20Tools)
+![Profile Views](https://komarev.com/ghpvc/?username=k46-f&style=for-the-badge&label=Profile+Views&color=339933)
 
 ---
 
